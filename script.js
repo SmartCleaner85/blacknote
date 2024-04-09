@@ -1,4 +1,4 @@
-var appName = "Morphify";
+var appName = "BlackNote";
 var date = "2024-03-13";
 
 function onIndexLoad() {
